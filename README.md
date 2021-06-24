@@ -1,3 +1,6 @@
+# I AM NOT RESPONSIBLE FOR ANY BANS OR HARASSMENT OCCURING WITH THIS BOT
+## Please use responsibly and don't harass people with this.
+
 # Discord-Fun
 Weird Discord Self-botting Tools I Thought Were Funny.
 
