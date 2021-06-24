@@ -11,7 +11,7 @@ Your average spam bot which takes input of message, token, frequency, and Channe
 ## Typing Bot
 Example: "**Drowzee** is typing..." 
 
-Takes input of token and Channel ID to send a request to the Discord API which makes the typing message appear while the bot is running.
+Takes input of token and Channel ID to send a request to the Discord API every 9 seconds which makes the typing message appear while the bot is running.
 
 ## Future
 I'll add more scripts and stuff when I feel like I want to. Feel free to commit to the project if you want a tool added!
